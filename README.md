@@ -6,6 +6,8 @@ SALUD-IA es un prototipo de inteligencia artificial orientado a apoyar la planif
 
 El sistema integra dos modelos de aprendizaje automático para anticipar la demanda de atención e identificar patrones asociados con el riesgo de inasistencia a citas. A partir de estas estimaciones, presenta indicadores que pueden apoyar la toma de decisiones operativas.
 
+🌐 **Prototipo en vivo:** https://salud-ia.streamlit.app
+
 ## Funcionalidades
 
 ### 📈 Predicción de demanda
